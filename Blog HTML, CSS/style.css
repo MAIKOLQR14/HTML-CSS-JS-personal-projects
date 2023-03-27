@@ -1,0 +1,11 @@
+body{
+    background-image: url(https://personales.unican.es/crespoj/senior/purple_marble.png);
+    background-attachment: fixed;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+
+.lista{
+    background-color: gray;
+}
